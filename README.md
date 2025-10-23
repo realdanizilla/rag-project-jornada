@@ -263,4 +263,4 @@ Open your browser at [http://localhost:8501](http://localhost:8501)
 ## References
 
 - [MarkItDown (Microsoft)](https://github.com/microsoft/markitdown) - Text and metadata extraction from PDFs
-- [Qdrant LangChain API](https://python.lang
+- [Qdrant LangChain API](https://python.lang)
