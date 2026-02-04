@@ -160,7 +160,7 @@ rag-project/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/caio-moliveira/rag-project.git
+gh clone realdanizilla/rag-project-jornada.git
 cd rag-project
 ```
 
